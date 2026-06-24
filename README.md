@@ -40,4 +40,5 @@ This dashboard is positioned as a road safety and operational risk analysis proj
 
 ## Author
 
-Created by Michael Kenechukwu as part of a data analytics, business intelligence, and machine learning portfolio.
+Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
