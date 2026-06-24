@@ -2,6 +2,10 @@
 
 Excel dashboard analyzing road accident data across severity, vehicle type, weather, and road conditions to highlight high-risk patterns.
 
+## Project Type
+
+Data analytics and business intelligence portfolio project.
+
 ## Objective
 
 This project is organized as a portfolio case study to show the full analysis workflow: understanding the business problem, preparing the data, exploring patterns, building the final output, and communicating insights clearly.
@@ -41,4 +45,5 @@ This dashboard is positioned as a road safety and operational risk analysis proj
 ## Author
 
 Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
 
